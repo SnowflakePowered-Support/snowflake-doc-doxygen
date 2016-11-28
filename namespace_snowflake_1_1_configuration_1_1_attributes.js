@@ -1,0 +1,10 @@
+var namespace_snowflake_1_1_configuration_1_1_attributes =
+[
+    [ "ConfigurationFileAttribute", "class_snowflake_1_1_configuration_1_1_attributes_1_1_configuration_file_attribute.html", "class_snowflake_1_1_configuration_1_1_attributes_1_1_configuration_file_attribute" ],
+    [ "ConfigurationOptionAttribute", "class_snowflake_1_1_configuration_1_1_attributes_1_1_configuration_option_attribute.html", "class_snowflake_1_1_configuration_1_1_attributes_1_1_configuration_option_attribute" ],
+    [ "ConfigurationSectionAttribute", "class_snowflake_1_1_configuration_1_1_attributes_1_1_configuration_section_attribute.html", "class_snowflake_1_1_configuration_1_1_attributes_1_1_configuration_section_attribute" ],
+    [ "CustomMetadataAttribute", "class_snowflake_1_1_configuration_1_1_attributes_1_1_custom_metadata_attribute.html", "class_snowflake_1_1_configuration_1_1_attributes_1_1_custom_metadata_attribute" ],
+    [ "InputTemplateAttribute", "class_snowflake_1_1_configuration_1_1_attributes_1_1_input_template_attribute.html", "class_snowflake_1_1_configuration_1_1_attributes_1_1_input_template_attribute" ],
+    [ "SelectionOptionAttribute", "class_snowflake_1_1_configuration_1_1_attributes_1_1_selection_option_attribute.html", "class_snowflake_1_1_configuration_1_1_attributes_1_1_selection_option_attribute" ],
+    [ "SerializableSectionAttribute", "class_snowflake_1_1_configuration_1_1_attributes_1_1_serializable_section_attribute.html", "class_snowflake_1_1_configuration_1_1_attributes_1_1_serializable_section_attribute" ]
+];

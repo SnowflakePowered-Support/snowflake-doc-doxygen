@@ -1,0 +1,14 @@
+var searchData=
+[
+  ['capabilities',['Capabilities',['../interface_snowflake_1_1_emulator_1_1_i_emulator_adapter.html#af3616ccfad43b9c9b237eff1caea7cec',1,'Snowflake::Emulator::IEmulatorAdapter']]],
+  ['configuration',['Configuration',['../interface_snowflake_1_1_configuration_1_1_i_configuration_collection.html#a64bb7e0c3e9da7d2721709f8412ff16e',1,'Snowflake.Configuration.IConfigurationCollection.Configuration()'],['../interface_snowflake_1_1_configuration_1_1_i_configuration_section.html#a06e22c7771fa2afb5dc068b1b089f0e2',1,'Snowflake.Configuration.IConfigurationSection.Configuration()'],['../interface_snowflake_1_1_emulator_1_1_i_emulator_instance.html#a9211eefd05dd5e8f45646873613bfc99',1,'Snowflake.Emulator.IEmulatorInstance.Configuration()'],['../interface_snowflake_1_1_extensibility_1_1_configuration_1_1_i_plugin_configuration.html#a1773d0a5e725e87cdc2e993484aacbb5',1,'Snowflake.Extensibility.Configuration.IPluginConfiguration.Configuration()']]],
+  ['configurationfilename',['ConfigurationFileName',['../interface_snowflake_1_1_extensibility_1_1_configuration_1_1_i_plugin_configuration.html#a044f340a4ca2b07e2fdc9930b44ca4bd',1,'Snowflake::Extensibility::Configuration::IPluginConfiguration']]],
+  ['controllerid',['ControllerId',['../interface_snowflake_1_1_input_1_1_controller_1_1_mapped_1_1_i_mapped_controller_element_collection.html#ab106dd67335732908e066114455d451a',1,'Snowflake::Input::Controller::Mapped::IMappedControllerElementCollection']]],
+  ['controllerlayout',['ControllerLayout',['../interface_snowflake_1_1_input_1_1_device_1_1_i_input_enumerator.html#ae4666c63d3de2c26dd0a59d471398acc',1,'Snowflake::Input::Device::IInputEnumerator']]],
+  ['controllername',['ControllerName',['../interface_snowflake_1_1_input_1_1_device_1_1_i_input_device.html#aad6b746cc9832ff219d33ed0accce569',1,'Snowflake::Input::Device::IInputDevice']]],
+  ['controllerports',['ControllerPorts',['../interface_snowflake_1_1_emulator_1_1_i_emulator_instance.html#a591610c450af98239236b916658b51ee',1,'Snowflake::Emulator::IEmulatorInstance']]],
+  ['controllers',['Controllers',['../interface_snowflake_1_1_services_1_1_i_stone_provider.html#ac4d2f3f139cc6dbe371c4a6c46a9454b',1,'Snowflake::Services::IStoneProvider']]],
+  ['crc32',['CRC32',['../interface_snowflake_1_1_scraper_1_1_shiragame_1_1_i_rom_info.html#ad25a8b77a8294d0d4fef9ca35c9cfebf',1,'Snowflake.Scraper.Shiragame.IRomInfo.CRC32()'],['../class_snowflake_1_1_scraper_1_1_shiragame_1_1_rom_info.html#a589ec0772da4d185ac7070d80f5a5ca2',1,'Snowflake.Scraper.Shiragame.RomInfo.CRC32()']]],
+  ['createtime',['CreateTime',['../interface_snowflake_1_1_emulator_1_1_i_emulator_instance.html#af14b14d80c1c9f01d5aae06e0c4d0934',1,'Snowflake::Emulator::IEmulatorInstance']]],
+  ['custommetadata',['CustomMetadata',['../interface_snowflake_1_1_configuration_1_1_i_configuration_option.html#a2d5c19757fdc57fe7f5f27cfa1644c42',1,'Snowflake::Configuration::IConfigurationOption']]]
+];

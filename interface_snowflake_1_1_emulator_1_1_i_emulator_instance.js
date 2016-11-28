@@ -1,0 +1,25 @@
+var interface_snowflake_1_1_emulator_1_1_i_emulator_instance =
+[
+    [ "Create", "interface_snowflake_1_1_emulator_1_1_i_emulator_instance.html#af600ffc2b771e56026bbe445db225371", null ],
+    [ "Destroy", "interface_snowflake_1_1_emulator_1_1_i_emulator_instance.html#a1fc1fd4b13e2222c4382a29d2cb29a92", null ],
+    [ "Pause", "interface_snowflake_1_1_emulator_1_1_i_emulator_instance.html#adb6ed106f817e0798872389b374d077d", null ],
+    [ "Resume", "interface_snowflake_1_1_emulator_1_1_i_emulator_instance.html#af3cb962816ec9cc21add5fb85cdbb0a3", null ],
+    [ "Start", "interface_snowflake_1_1_emulator_1_1_i_emulator_instance.html#a17caa0e3a9bb196a7babb2835107522a", null ],
+    [ "Configuration", "interface_snowflake_1_1_emulator_1_1_i_emulator_instance.html#a9211eefd05dd5e8f45646873613bfc99", null ],
+    [ "ControllerPorts", "interface_snowflake_1_1_emulator_1_1_i_emulator_instance.html#a591610c450af98239236b916658b51ee", null ],
+    [ "CreateTime", "interface_snowflake_1_1_emulator_1_1_i_emulator_instance.html#af14b14d80c1c9f01d5aae06e0c4d0934", null ],
+    [ "DestroyTime", "interface_snowflake_1_1_emulator_1_1_i_emulator_instance.html#a15a8e17664a2f5f959545b08c7838987", null ],
+    [ "EmulatorAdapter", "interface_snowflake_1_1_emulator_1_1_i_emulator_instance.html#a98396c700549a613998dccde97b69e86", null ],
+    [ "Game", "interface_snowflake_1_1_emulator_1_1_i_emulator_instance.html#af390b5bdfcaeae4d8e4d3035512ccf5e", null ],
+    [ "InstanceGuid", "interface_snowflake_1_1_emulator_1_1_i_emulator_instance.html#a589fac7f7b77b29e09a840262340776f", null ],
+    [ "InstanceMetadata", "interface_snowflake_1_1_emulator_1_1_i_emulator_instance.html#a69480a7929ed63824e795de10466ee80", null ],
+    [ "InstancePath", "interface_snowflake_1_1_emulator_1_1_i_emulator_instance.html#a8746f27f2aa67f59ea931a19f97e256a", null ],
+    [ "IsActive", "interface_snowflake_1_1_emulator_1_1_i_emulator_instance.html#ab4e875ccea02707baa12e78e7bdf8afe", null ],
+    [ "IsCreated", "interface_snowflake_1_1_emulator_1_1_i_emulator_instance.html#ad324941058b2b4fe512c728c859937ca", null ],
+    [ "IsDestroyed", "interface_snowflake_1_1_emulator_1_1_i_emulator_instance.html#a49d5a176e7bcc48bc34f0fecdce0659f", null ],
+    [ "IsRunning", "interface_snowflake_1_1_emulator_1_1_i_emulator_instance.html#af64b2a268b1e0724b05e6d14313f283f", null ],
+    [ "Platform", "interface_snowflake_1_1_emulator_1_1_i_emulator_instance.html#a8da8e1e6e58edf6f443b8fa26827b2e0", null ],
+    [ "RomFile", "interface_snowflake_1_1_emulator_1_1_i_emulator_instance.html#a51a13c8daf96f9b367d6e7bd600adcc2", null ],
+    [ "SaveSlot", "interface_snowflake_1_1_emulator_1_1_i_emulator_instance.html#a27ba211912944fe9c04b3f1a64320153", null ],
+    [ "StartTime", "interface_snowflake_1_1_emulator_1_1_i_emulator_instance.html#aa0296762df690811b0abab2cca2fd728", null ]
+];
